@@ -42,3 +42,11 @@
 	path = week1/day5/kwk17-DOM-lab
 	url = https://github.com/clei1/kwk17-DOM-lab
 	branch = master
+[submodule "kwk17-MINI-PROJ-movie-adaptations"]
+	path = kwk17-MINI-PROJ-movie-adaptations
+	url = https://github.com/clei1/kwk17-MINI-PROJ-movie-adaptations
+	branch = master
+[submodule "kwk17-FINAL-PROJ-maze"]
+	path = kwk17-FINAL-PROJ-maze
+	url = https://github.com/clei1/kwk17-FINAL-PROJ-maze
+	branch = master
