@@ -2,3 +2,15 @@
 	path = week1/day1/kwk17-command-line-refrigerator-lab
 	url = https://github.com/clei1/kwk17-command-line-refrigerator-lab.git
 	branch = master
+[submodule "week1/day2/kwk17-dvd-codealong"]
+	path = week1/day2/kwk17-dvd-codealong
+	url = https://github.com/clei1/kwk17-dvd-codealong
+	branch = master
+[submodule "week1/day2/kwk17-p5-play-lab"]
+	path = week1/day2/kwk17-p5-play-lab
+	url = https://github.com/clei1/kwk17-p5-play-lab
+	branch = master
+[submodule "week1/day2/kwk17-tron-bike-lab"]
+	path = week1/day2/kwk17-tron-bike-lab
+	url = https://github.com/clei1/kwk17-tron-bike-lab
+	branch = master
