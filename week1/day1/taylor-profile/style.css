@@ -1,0 +1,44 @@
+h1, h3 {
+    color: #3D696;
+}
+
+#content {
+    border: 2px solid black;
+    background: #596967;
+    width: 70%;
+    position: absolute;
+    top: 10%;
+    left: 15%;
+}
+
+#top-background{
+    background: #69B6AD;
+    min-height: 300px;
+}
+
+#bottom-background{
+    background: #CEEDE9;
+    min-height: 600px
+}
+
+.list {
+    background: #CEEDE9;
+    width: 45%;
+    border: 2px #69B6AD;
+    padding: 1%;
+    text-align: center;
+    display: inline-block;
+}
+
+#pic {
+    width: 50%;
+    margin: auto ;
+}
+
+#profile {
+    border-radius: 50%;
+}
+
+img {
+    width: 100%;
+}
