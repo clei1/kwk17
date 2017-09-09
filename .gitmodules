@@ -14,3 +14,19 @@
 	path = week1/day2/kwk17-tron-bike-lab
 	url = https://github.com/clei1/kwk17-tron-bike-lab
 	branch = master
+[submodule "week1/day3/kwk17-array-iteration-mini-lab"]
+	path = week1/day3/kwk17-array-iteration-mini-lab
+	url = https://github.com/clei1/kwk17-array-iteration-mini-lab
+	branch = master
+[submodule "week1/day3/kwk17-dom-manipulation-code-along"]
+	path = week1/day3/kwk17-dom-manipulation-code-along
+	url = https://github.com/clei1/kwk17-dom-manipulation-code-along
+	branch = master
+[submodule "week1/day3/kwk17-intro-to-javascript-arrays"]
+	path = week1/day3/kwk17-intro-to-javascript-arrays
+	url = https://github.com/clei1/kwk17-intro-to-javascript-arrays
+	branch = master
+[submodule "week1/day3/kwk17-intro-to-javascript-functions"]
+	path = week1/day3/kwk17-intro-to-javascript-functions
+	url = https://github.com/clei1/kwk17-intro-to-javascript-functions
+	branch = master
