@@ -26,4 +26,6 @@ This repository consolidates all the work done during Kode With Klossy NYC Level
  
 Organization
 ------
+The folders that have a "kwk17-" are submodules. They link to my other repositories. This is because they were forked and so I wanted to preserve the original owners. 
 ![there should be a tree diagram here](https://github.com/clei1/kwk17/blob/master/repoOutline.png "tree")
+
