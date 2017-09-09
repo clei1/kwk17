@@ -62,3 +62,7 @@
 	path = week1/day1/kwk17-command-line-refrigerator-lab
 	url = https://github.com/clei1/kwk17-command-line-refrigerator-lab
 	branch = master
+[submodule "week1/day3/kwk17-binary-converter-lab-javascript"]
+	path = week1/day3/kwk17-binary-converter-lab-javascript
+	url = https://github.com/clei1/kwk17-binary-converter-lab-javascript
+	branch = master
