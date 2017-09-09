@@ -1,4 +1,4 @@
-[submodule "week1/day1/kwk17-command-line-refrigerator-lab"]
+[submodule "week1/day1/command-line-refrigerator-lab"]
 	path = week1/day1/kwk17-command-line-refrigerator-lab
 	url = https://github.com/clei1/kwk17-command-line-refrigerator-lab.git
 	branch = master
