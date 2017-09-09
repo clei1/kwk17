@@ -62,3 +62,7 @@
 	path = week2/day7/kwk17-AFRAME-DOM-lab
 	url = https://github.com/clei1/kwk17-AFRAME-DOM-lab
 	branch = master
+[submodule "week1/day1/kwk17-command-line-refrigerator-lab"]
+	path = week1/day1/kwk17-command-line-refrigerator-lab
+	url = https://github.com/clei1/kwk17-command-line-refrigerator-lab
+	branch = master
