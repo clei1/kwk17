@@ -2,7 +2,7 @@
 
 This repository consolidates all the work done during Kode With Klossy NYC Level 2. This repository contains folders and also submodules that link to other repoesitories related to KWK.
 
-#### List of all the programs used during KWK:
+## List of all the programs used during KWK:
   - [Slack](https://slack.com/) is a ***very professional*** cloud-based team collaboration service. It has chatrooms, direct messaging and allows sharing of code snippets. 
   - [Zoom](https://zoom.us/) is a video and web conference application. 
   - [C9](https://c9.io) is an online code editor with a full Ubuntu workspace in the cloud. You can use a terminal and look at files in one screen. It also allows for shared workspaces and works with GitHub.
@@ -14,7 +14,7 @@ This repository consolidates all the work done during Kode With Klossy NYC Level
       - [Day 4: Data Structures and APIs](https://trello.com/b/NigCD4X5/front-end-with-js-day-4-data-structures-and-apis)
       - [Day 6: A-Frame](https://trello.com/b/Gsb1azq8/front-end-with-js-day-6-aframe)
 
-#### List of languages/libraries used during KWK:
+## List of languages/libraries used during KWK:
   - [HTML](https://www.w3schools.com/html/) 
   - [CSS](https://www.w3schools.com/css/)
   - [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/) is a front-end web framework for online apps/websites.
@@ -24,5 +24,6 @@ This repository consolidates all the work done during Kode With Klossy NYC Level
   - [p5.play](http://p5play.molleindustria.org/) is a library primarily for game development.
   - [A-Frame](https://aframe.io/docs/0.6.0/introduction/) is WebVR.
  
-#### Organization
-
+Organization
+------
+![there should be a tree diagram here](https://github.com/clei1/kwk17/blob/master/repoOutline.png "tree")
