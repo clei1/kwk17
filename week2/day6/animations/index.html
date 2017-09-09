@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>A-Frame Lab</title>
+    <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
+</head>
+
+<body>
+    <a-scene>
+        <a-entity>
+            <a-camera>
+                <a-cursor></a-cursor>
+            </a-camera>
+        </a-entity>
+        <a-box color="tomato" position="0 0 -5">
+            <a-animation dur="2000" attribute="position" to="5 0 -5"></a-animation>
+            <a-animation attribute="rotation" dur="1000" to="-360 -360 -360" repeat="indefinite" begin="click"></a-animation>
+            <a-animation attribute="color" to="purple" begin="click"></a-animation>
+        </a-box>
+    </a-scene>
+</body>
+
+</html>

@@ -1,0 +1,46 @@
+<html>
+
+<head>
+    <title>Tic-Tac-Toe</title>
+    <script src="https://aframe.io/releases/0.6.0/aframe.min.js"></script>
+    <script src="script.js"></script>
+</head>
+
+<body onload="setup()">
+    <!--beginning of the 3D scene!-->
+    <a-scene id="scene">
+        
+        <a-text onclick="reset()" visible=false id="win" value="You've won!" color="white" position="-.65 2.5 0"></a-text>
+        <!--the cursor allows us to click on things! It has to move with the camera, which has to be inside of an a-entity tag.-->
+        <a-entity>
+            <a-camera position="0 0 5">
+                <a-cursor></a-cursor>
+            </a-camera>
+        </a-entity>
+
+        <a-sky color="black"></a-sky>
+
+        <a-box class="tic" id="box1" color="white" position="-1 1 0" width="1" height="1" depth="1">></a-box>
+        <a-box class="tic" id="box2" color="white" position="0 1 0" width="1" height="1" depth="1">></a-box>
+        <a-box class="tic" id="box3" color="white" position="1 1 0" width="1" height="1" depth="1">></a-box>
+        <a-box class="tic" id="box4" color="white" position="-1 0 0" width="1" height="1" depth="1">></a-box>
+        <a-box class="tic" id="box5" color="white" position="0 0 0" width="1" height="1" depth="1">></a-box>
+        <a-box class="tic" id="box6" color="white" position="1 0 0" width="1" height="1" depth="1">></a-box>
+        <a-box class="tic" id="box7" color="white" position="-1 -1 0" width="1" height="1" depth="1">></a-box>
+        <a-box class="tic" id="box8" color="white" position="0 -1 0" width="1" height="1" depth="1"></a-box>
+        <a-box class="tic" id="box9" color="white" position="1 -1 0" width="1" height="1" depth="1">></a-box>
+
+        <a-box color="black" position=".5 0 0" width=".1" height="3" depth="1"></a-box>
+        <a-box color="black" position="-.5 0 0" width=".1" height="3" depth="1"></a-box>
+        <a-box color="black" position="0 .5 0" width="3" height=".1" depth="1"></a-box>
+        <a-box color="black" position="0 -.5 0" width="3" height=".1" depth="1"></a-box>
+        
+        <a-box onclick="reset()" color="white" position= "0 2 0" width=".25" height=".25" depth="1"></a-box>
+
+        <!--sets the lighting for the scene-->
+        <a-light type="ambient" color="#445451"></a-light>
+        <a-light type="point" intensity="2" position="2 4 4"></a-light>
+    </a-scene>
+</body>
+
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://aframe.io/releases/0.6.1/aframe.min.js"></script>
+</head>
+
+<body>
+    <a-scene>
+        <a-entity>
+            
+        </a-entity>
+        
+        <a-assets>
+            <!--images and audio-->
+            <img id="corgi" src="corgi.jpg">
+            <img id="sky" src="sky.jpg">
+        </a-assets>
+        <a-sky material= "src: #sky"></a-sky>
+        <a-box material="src: #corgi" depth="2" height="4" width="0.5"></a-box>
+    </a-scene>
+</body>
+
+</html>

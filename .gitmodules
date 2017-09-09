@@ -50,3 +50,15 @@
 	path = kwk17-FINAL-PROJ-maze
 	url = https://github.com/clei1/kwk17-FINAL-PROJ-maze
 	branch = master
+[submodule "week2/day6/kwk17-a-frame-basics-lab"]
+	path = week2/day6/kwk17-a-frame-basics-lab
+	url = https://github.com/clei1/kwk17-a-frame-basics-lab
+	branch = master
+[submodule "week2/day7/kwk17-a-frame-dom-manipulation-code-along"]
+	path = week2/day7/kwk17-a-frame-dom-manipulation-code-along
+	url = https://github.com/clei1/kwk17-a-frame-dom-manipulation-code-along
+	branch = master
+[submodule "week2/day7/kwk17-AFRAME-DOM-lab"]
+	path = week2/day7/kwk17-AFRAME-DOM-lab
+	url = https://github.com/clei1/kwk17-AFRAME-DOM-lab
+	branch = master
