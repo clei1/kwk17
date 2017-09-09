@@ -30,3 +30,15 @@
 	path = week1/day3/kwk17-intro-to-javascript-functions
 	url = https://github.com/clei1/kwk17-intro-to-javascript-functions
 	branch = master
+[submodule "week1/day4/kwk17-fe-js-cryptography"]
+	path = week1/day4/kwk17-fe-js-cryptography
+	url = https://github.com/clei1/kwk17-fe-js-cryptography
+	branch = master
+[submodule "week1/day4/kwk17-fetch-api-template"]
+	path = week1/day4/kwk17-fetch-api-template
+	url = https://github.com/clei1/kwk17-fetch-api-template
+	branch = master
+[submodule "week1/day5/kwk17-DOM-lab"]
+	path = week1/day5/kwk17-DOM-lab
+	url = https://github.com/clei1/kwk17-DOM-lab
+	branch = master
